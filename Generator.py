@@ -199,7 +199,7 @@ def main():
         "antiDetection": False,
         "id": 1,
         "name": "Config_1",
-        "numberOfCycles": 10,
+        "numberOfCycles": 1,
         "stopConditionChecked": 0,
         "timeValue": 300
     }]
