@@ -4,7 +4,8 @@
 
 _App I Used_  
 https://play.google.com/store/apps/details?id=com.truedevelopersstudio.automatictap.autoclicker   
-https://play.google.com/store/apps/details?id=io.appground.blekpremium  
+https://play.google.com/store/apps/details?id=io.appground.blekpremium  (You can any Bluetooth Keyboad app)  
+
 
 
 
