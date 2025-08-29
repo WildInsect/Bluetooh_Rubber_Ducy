@@ -1,3 +1,9 @@
+
+**Adjust the "xpos" and "ypos" in python script according to Your screen coordinates.**    
+**This is the only setup you need to do.**  
+
+
+
 ## **KEYS**  
 
     
