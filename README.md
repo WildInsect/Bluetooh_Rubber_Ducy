@@ -2,6 +2,11 @@
 **Adjust the "xpos" and "ypos" in python script according to Your screen coordinates.**    
 **This is the only setup you need to do.**  
 
+_App I Used_  
+https://play.google.com/store/apps/details?id=com.truedevelopersstudio.automatictap.autoclicker   
+https://play.google.com/store/apps/details?id=io.appground.blekpremium  
+
+
 
 
 ## **KEYS**  
