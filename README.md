@@ -1,17 +1,17 @@
 ## **KEYS**  
 
     
-CTRL=CTL  
-ALT=ALT  
-GUI=WIN  
-SPACE=SPC  
-TAB=TAB  
-ENTER=ENT  
-UP=UP  
-DOWN=DWN  
-LEFT=LFT  
-RIGHT=RGT  
-BACKSPACE=BSPC  
-SHIFT=SFT  
-FUNTION= FN1.....FN12  
-DLETE=DLT  
+CTRL  =  CTL  
+ALT   =  ALT  
+GUI   =  WIN  
+SPACE =  SPC  
+TAB   =  TAB  
+ENTER =  ENT  
+UP    =  UP  
+DOWN  = DWN  
+LEFT  = LFT  
+RIGHT = RGT  
+BACKSPACE  =  BSPC  
+SHIFT = SFT  
+FUNTION  =  FN1.....FN12  
+DLETE = DLT  
