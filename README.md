@@ -1,6 +1,8 @@
 
 **Adjust the "xpos" and "ypos" in python script according to Your screen coordinates.**    
 **This is the only setup you need to do.**  
+
+
 **__DEMO:__** https://youtube.com/shorts/EdHH8MTuU9M?si=5cOEPuerCp1EKa_r   
 
 _App I Used_  
