@@ -32,7 +32,6 @@ alphabet_positions = {
     'y': {"xPos": 1203, "yPos": 545},
     'z': {"xPos": 472, "yPos": 846},
 
-    ' ': {"xPos": 829, "yPos": 1008},
     'ESC': {"xPos": 124, "yPos": 224},
     'SPC': {"xPos": 829, "yPos": 1008},
     'ENT': {"xPos": 2111, "yPos": 1013},
